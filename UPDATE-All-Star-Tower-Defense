@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>FreeSkin</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <p style="font-size:100px">Hi!!! เข้ามาทำเหี้ยไรสัส<p>
+    <script src="script.js"></script>
+  </body>
+</html>
